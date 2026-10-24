@@ -31,23 +31,23 @@ Universitas Almuslim, 2026.
 
 ## 📸 Screenshot Sistem
 ### Portal Simulasi Multiuser
-![Portal](screenshots/portal.png)
+![Portal](portal.png)
 
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Dashboard Super Admin
-![Super Admin](screenshots/dashboard-superadmin.png)
+![Super Admin](dashboard-superadmin.png)
 
 ### Dashboard Admin Sekolah
 ![Admin Sekolah](dashboard-admin.png)
 
 ### Dashboard Operator
-![Operator](screenshots/dashboard-operator.png)
+![Operator](dashboard-operator.png)
 
 ### Manajemen Akses Menu
-![Akses Menu](screenshots/manajemen-akses.png)
+![Akses Menu](manajemen-akses.png)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
