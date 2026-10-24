@@ -46,7 +46,7 @@ Universitas Almuslim, 2026.
 ### Manajemen Akses Menu
 ![Akses Menu](screenshots/manajemen-akses.png)
 
-### Manajemen Akses Menu
+### Database
 ![Database](screenshots/database.png)
 
 ## 🚀 Cara Menjalankan
