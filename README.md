@@ -1,5 +1,3 @@
-# rbac-sistem-informasi-tk
-Sistem Informasi TK berbasis web dengan penerapan Role-Based Access Control (RBAC) untuk manajemen hak akses multiuser. PHP, CodeIgniter 3, MySQL
 # Penerapan Role-Based Access Control (RBAC) pada Sistem Informasi TK Berbasis Multiuser
 
 ## 📌 Deskripsi Proyek
@@ -31,23 +29,22 @@ Universitas Almuslim, 2026.
 
 ## 📸 Screenshot Sistem
 ### Portal Simulasi Multiuser
-![Portal](portal.png)
-
+![Portal](screenshots/portal.png)
 
 ### Halaman Login
-![Login](login.png)
+![Login](screenshots/login.png)
 
 ### Dashboard Super Admin
-![Super Admin](dashboard-superadmin.png)
+![Super Admin](screenshots/dashboard-superadmin.png)
 
 ### Dashboard Admin Sekolah
-![Admin Sekolah](dashboard-admin.png)
+![Admin Sekolah](screenshots/dashboard-admin.png)
 
 ### Dashboard Operator
-![Operator](dashboard-operator.png)
+![Operator](screenshots/dashboard-operator.png)
 
 ### Manajemen Akses Menu
-![Akses Menu](manajemen-akses.png)
+![Akses Menu](screenshots/manajemen-akses.png)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
