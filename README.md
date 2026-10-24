@@ -41,7 +41,7 @@ Universitas Almuslim, 2026.
 ![Super Admin](screenshots/dashboard-superadmin.png)
 
 ### Dashboard Admin Sekolah
-![Admin Sekolah](screenshots/dashboard-admin.png)
+![Admin Sekolah](dashboard-admin.png)
 
 ### Dashboard Operator
 ![Operator](screenshots/dashboard-operator.png)
