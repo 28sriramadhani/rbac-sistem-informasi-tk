@@ -46,6 +46,9 @@ Universitas Almuslim, 2026.
 ### Manajemen Akses Menu
 ![Akses Menu](screenshots/manajemen-akses.png)
 
+### Manajemen Akses Menu
+![Akses Menu](screenshots/database.png)
+
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
 2. Import file database `.sql` ke MySQL
