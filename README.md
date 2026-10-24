@@ -47,7 +47,7 @@ Universitas Almuslim, 2026.
 ![Akses Menu](screenshots/manajemen-akses.png)
 
 ### Manajemen Akses Menu
-![Akses Menu](screenshots/database.png)
+![Database](screenshots/database.png)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
