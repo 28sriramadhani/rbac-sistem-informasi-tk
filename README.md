@@ -49,12 +49,8 @@ Universitas Almuslim, 2026.
 ### Database
 ![Database](screenshots/database.png)
 
-## 🚀 Cara Menjalankan
-1. Clone repository ini
-2. Import file database `.sql` ke MySQL
-3. Konfigurasi database di `application/config/database.php`
-4. Jalankan menggunakan XAMPP
-5. Akses melalui browser: `http://localhost/nama-folder`
+## 📂 Source Code
+Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
 
 ## 👤 Developer
 **Sri Ramadhani**  
